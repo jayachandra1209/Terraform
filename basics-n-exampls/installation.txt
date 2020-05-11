@@ -1,0 +1,9 @@
+How to install the Terraform:
+1.	Goto the terraform site:
+https://www.terraform.io/
+click on downloadyou will find out the sofwares related to your OS versions
+
+or else got o Tools link which shared by Raghu:
+run the below command to install the Terraform
+ 
+>curl https://raw.githubusercontent.com/linuxautomations/labautomation/master/tools/terraform/install.sh | sudo bash
